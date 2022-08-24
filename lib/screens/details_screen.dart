@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:peliculas/models/models.dart';
-import 'package:peliculas/widgets/video_trailer_url.dart';
+
 import 'package:peliculas/widgets/widgets.dart';
 
 class DetailsSreen extends StatelessWidget {
